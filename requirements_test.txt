@@ -1,0 +1,7 @@
+coveralls
+flake8-docstrings
+flake8
+pydocstyle
+pylint
+pytest-cov
+pytest
